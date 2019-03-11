@@ -1,0 +1,47 @@
+body {
+    background-color: deepskyblue;
+
+}
+.tijd {
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    width: 21%;
+    margin: auto;
+    margin-top: -248px;
+}
+
+.img {
+    width: 100%;
+    height: 680px;
+}
+.ticket {
+    width: 100%;
+    height: 340px;
+}
+.wrapper {
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+.box_midden{
+    background-color: lightskyblue;
+    display: flex;
+    justify-content: center;
+    width: 33%;
+    height: 680px;
+}
+.midden {
+    margin-left: 20px;
+}
+.box_left {
+
+    justify-content: left;
+    width: 33%;
+}
+.box_right {
+
+
+    justify-content: left;
+    width: 33%;
+}
